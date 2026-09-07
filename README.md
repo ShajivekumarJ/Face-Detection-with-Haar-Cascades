@@ -104,8 +104,7 @@ else:
 
 ## OUTPUT:
 
-<img width="1055" height="1080" alt="Screenshot 2026-09-06 213936" src="https://github.com/user-attachments/assets/f3c70d9d-1cc7-48e6-9a83-c847a876b223" />
-
+<img width="1285" height="1080" alt="image" src="https://github.com/user-attachments/assets/de54dd4c-aae4-4ea8-ba52-da02e8501e46" />
 
 ## RESULT:
 thus the given objective of face detection is done sucessfully.
