@@ -67,7 +67,7 @@ import cv2
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
 # Read the image
-image = cv2.imread('sabii.jpg')
+image = cv2.imread("shajivepicture.jpeg")
 
 # Check if image was loaded
 if image is None:
