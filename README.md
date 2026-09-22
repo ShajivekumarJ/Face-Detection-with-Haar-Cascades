@@ -104,7 +104,18 @@ else:
 
 ## OUTPUT:
 
-<img width="1285" height="1080" alt="image" src="https://github.com/user-attachments/assets/de54dd4c-aae4-4ea8-ba52-da02e8501e46" />
+<img width="440" height="407" alt="Screenshot 2026-09-22 100739" src="https://github.com/user-attachments/assets/2323a204-479e-42d8-97f3-000c1281a42e" />
+
+<img width="377" height="382" alt="Screenshot 2026-09-22 100749" src="https://github.com/user-attachments/assets/58aad5a0-e5d5-4aa3-a284-74130e9d8c32" />
+
+<img width="515" height="205" alt="Screenshot 2026-09-22 100757" src="https://github.com/user-attachments/assets/90682f6e-359d-42f1-8241-c52d306cba11" />
+
+<img width="503" height="200" alt="Screenshot 2026-09-22 100804" src="https://github.com/user-attachments/assets/890fc88c-4a73-4a51-9f54-b1de62127117" />
+
+<img width="497" height="201" alt="Screenshot 2026-09-22 100813" src="https://github.com/user-attachments/assets/bb4ec58c-a137-49cd-a9fb-ab9d2c689a55" />
+
+
+
 
 ## RESULT:
 thus the given objective of face detection is done sucessfully.
